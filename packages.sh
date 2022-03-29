@@ -4,4 +4,4 @@ pacstrap /mnt base linux linux-firmware \
 	avr-gcc avr-libc avrdude chromium \
 	clang llvm discord flameshot grub htop \
 	ninja openssh ttf-fantasque-sans-mono \
-	valgrind zsh
+	valgrind zsh efibootmgr
